@@ -1,5 +1,5 @@
 # SQL---Marketing-Attribution---CoolTShirts
-This project is part of the Codecademy course on SQL. In this project, I used SQL, UTM parameters, and touch attribution to draw insights for a company called CoolTShirts. There are three files:
+This project is part of the Codecademy course on SQL. In this project, I used SQL, UTM parameters, and touch attribution to draw insights for a company called CoolTShirts. The following files are:
 1.	Powerpoint presentation – Contains my analysis is communicated to the audience.
 2.	Excel file – Contains my detailed analysis in tables and graphs forms.
 3.	SQL file – Contains my queries are used in generating the data to be analyzed. 
